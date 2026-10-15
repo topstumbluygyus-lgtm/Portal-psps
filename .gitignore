@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.elf
+*.pbp
+EBOOT.PBP
+
+# Common generated folders
+/build/
+/bin/
+/obj/
+
+# Local editor metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Archive outputs if you don't want to track them
+*.zip
+*.tar
+*.tar.gz
